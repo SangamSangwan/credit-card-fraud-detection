@@ -1,0 +1,10 @@
+The requirements are -
+1- xgboost
+2- shap
+3- imbalanced-learn
+4- scikit-learn
+5- tensorflow
+6- pandas
+7- matplotlib
+8- seaborn
+9- kaggle
