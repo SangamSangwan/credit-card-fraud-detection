@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (usually too large / sensitive for git)
+data/*.csv
+data/*.zip
+
+# Environment secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
